@@ -1,0 +1,5 @@
+*.xls
+*.xlsx
+*.csv
+finanze_cantalu*.html
+!index.html
